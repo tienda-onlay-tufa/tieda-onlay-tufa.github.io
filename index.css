@@ -1,0 +1,65 @@
+.navbar li a :hover {
+    background-color:white;
+
+}
+.navbar > li {
+    float: left;
+}
+.navbar li ul {
+    display:none;
+    position: absolute;
+    min-width: 140px;
+}
+.navbar li:hover > ul{
+    display: block;
+}
+.sproduct{
+    display: flex;
+    justify-content: space-between;
+}
+.sproduct {
+    background: hsl(39, 85%, 56%);
+    text-align: center;
+    display: block;
+}
+
+.footer{
+    background-color: mediumblue;
+    padding: 10px 10px;
+    margin: 5px 5px;
+}
+.footer img {
+    position: relative;
+    padding: 10px 10px;
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    
+   
+    
+}
+
+.Contacto{
+    
+    background: wheat;
+    
+}
+.footer .Contacto p {
+    
+    background: wheat;
+    
+}
+.footer #logo {
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+p {
+    padding: 0;
+    background: white;
+    color:blue;
+    border: 1px solid #fce29f;
+    border-radius: .2em;
+}
+  
