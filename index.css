@@ -47,15 +47,30 @@
    
     
 }
-
-#polos {
-    background: hsl(305, 84%, 70%);
+#pollera {
+    background: hwb(147 45% 5%);
     text-align: center;
     display: block;
     cursor: pointer;
     
     
 }
+#polos {
+    background: hsl(318, 77%, 59%);
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    
+    
+}
+/*#polos {
+    background: hsl(305, 84%, 70%);
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    
+    
+}*/
 .img-fluid{
     border-radius: 5%;
     background-position: 5%;
