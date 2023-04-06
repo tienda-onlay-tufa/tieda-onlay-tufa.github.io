@@ -71,6 +71,12 @@
     
     
 }*/
+.wasap{
+    position: fixed;
+            right: 15px;
+            bottom: 15px;
+            z-index: 1;
+}
 .img-fluid{
     border-radius: 45%;
     background-position: 5%;
