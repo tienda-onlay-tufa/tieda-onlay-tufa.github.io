@@ -39,6 +39,14 @@
    
     
 }
+#uniforme {
+    background: hsl(266, 73%, 82%);
+    text-align: center;
+    display: block;
+    cursor: pointer;
+   
+    
+}
 #aretes {
     background: hwb(14 44% 15%);
     text-align: center;
