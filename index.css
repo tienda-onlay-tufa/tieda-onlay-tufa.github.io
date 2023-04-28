@@ -26,7 +26,14 @@
     color: blue;
     background: aliceblue;
 }
-
+.sproduct p {
+    color: rgb(18, 2, 245);
+    background: rgb(255, 255, 249);
+}
+.sproduct h3 {
+    color: blue;
+    background: aliceblue;
+}
 .container .row .col-md-12:hover{
     background-color: rgb(245, 248, 68);
     border-radius: 5%;
