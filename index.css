@@ -34,10 +34,17 @@
     color: blue;
     background: aliceblue;
 }
-.container .row .col-md-12:hover{
-    background-color: rgb(245, 248, 68);
+.container .row .col-md-3 :hover{
+    background-color: rgb(200, 124, 235);
     border-radius: 5%;
+    padding: 10px 10px 10px 10px;
 }
+.container .row .col-md-4 :hover{
+    background-color: rgb(245, 248, 68);
+    border-radius: 2%;
+    padding: 10px 10px 10px 10px;
+}
+
 #chompa {
     background: hsl(39, 85%, 56%);
     text-align: center;
